@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! GitHub333 accplxm</h2>
+<h2>Hello World! accplxm</h2>
 </body>
 </html>
